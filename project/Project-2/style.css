@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+}
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.card {
+    box-sizing: border-box;
+    height: 516px;
+    width: 305px;
+    background-color: hsl(216, 50%, 16%);
+    padding: 20px;
+    border-radius: 12px;
+    position:absolute;
+    margin:auto;
+    inset:0;
+}
+
+img {
+    margin-bottom: 18px;
+    width: 100%;
+    border-radius: 9px;
+}
+
+h3{
+    margin-bottom: 14px;
+   color: hsl(0, 0%, 100%)
+}
+
+p{
+    display: inline-block;
+    font-size: 17px;
+    color:hsl(215, 51%, 70%);
+    margin-bottom: 15px;
+}
+
+h4 {
+    color:#25F2F5;
+    display:inline-block;
+    margin-right: 112px;
+}
+
+hr{
+    color:#8BA6D2;
+}
+
+.circle {
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+    transform: translatey(16px);
+    border: solid 1px white;
+    display: inline-block;
+}
+
+.img2 {
+    translate
+}
+
+.lowerp {
+    margin-left:10px;
+    transform :translatey(-15px);
+}

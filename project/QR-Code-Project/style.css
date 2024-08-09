@@ -1,0 +1,25 @@
+body {
+  background-color: #d5e1ef;
+  text-align: center;
+  font-family: cursive;
+}
+
+.card {
+  height: 430px;
+  width: 100%;
+  max-width: 277px;
+  padding: 1rem;
+  padding-bottom: 3rem;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+
+img {
+  border-radius: 7px;
+  width: 100%;
+}
+
+
